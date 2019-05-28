@@ -1,3 +1,9 @@
 [submodule "Software/self-organizing-maps"]
 	path = Software/self-organizing-maps
 	url = https://github.com/SkinMan95/self-organizing-maps.git
+[submodule "thesis-project-book"]
+	path = thesis-project-book
+	url = https://github.com/SkinMan95/thesis-project-book
+[submodule "Software/pgr-software-models"]
+	path = Software/pgr-software-models
+	url = https://github.com/SkinMan95/pgr-software-models.git
