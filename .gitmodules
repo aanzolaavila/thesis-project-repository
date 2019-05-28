@@ -7,3 +7,6 @@
 [submodule "Software/pgr-software-models"]
 	path = Software/pgr-software-models
 	url = https://github.com/SkinMan95/pgr-software-models.git
+[submodule "Software/pgr-twitter-fetcher"]
+	path = Software/pgr-twitter-fetcher
+	url = https://github.com/SkinMan95/pgr-twitter-fetcher.git
