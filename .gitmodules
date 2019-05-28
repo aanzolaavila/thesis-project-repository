@@ -1,0 +1,3 @@
+[submodule "Software/self-organizing-maps"]
+	path = Software/self-organizing-maps
+	url = https://github.com/SkinMan95/self-organizing-maps.git
