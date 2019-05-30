@@ -10,3 +10,6 @@
 [submodule "Software/pgr-twitter-fetcher"]
 	path = Software/pgr-twitter-fetcher
 	url = https://github.com/SkinMan95/pgr-twitter-fetcher.git
+[submodule "Software/twitter-archive-filter"]
+	path = Software/twitter-archive-filter
+	url = https://github.com/SkinMan95/twitter-archive-filter.git
