@@ -13,3 +13,6 @@
 [submodule "Software/twitter-archive-filter"]
 	path = Software/twitter-archive-filter
 	url = https://github.com/SkinMan95/twitter-archive-filter.git
+[submodule "Software/StarSpace"]
+	path = Software/StarSpace
+	url = https://github.com/facebookresearch/StarSpace.git
