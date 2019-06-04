@@ -8,7 +8,7 @@ This is the Git repository containing my thesis project for 2019-1.
 In order to clone this repository, write this on the terminal (you can add **-j8** to the command 
 to improve cloning performance):
 ```bash
-$ git clone --recurse-submodules https://github.com/SkinMan95/thesis-project-repository
+$ git clone --recurse-submodules https://github.com/aanzolaavila/thesis-project-repository
 ```
 
 ## Contents
